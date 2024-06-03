@@ -6,3 +6,9 @@ Tendremos un como entrada un conjunto de datos obtenidos de la plataforma Kaggle
 ADQUISICIÓN DE LOS DATOS
 
 El conjunto de datos a utilizar es "Sentiment140 dataset with 1.6 million tweets" obtenido de https://www.kaggle.com/datasets/kazanova/sentiment140/data. Una vez que se descargue, se debe cambiar el nombre del archivo a 'train.csv'.
+
+
+## Integrantes
+🌸 Ayala Flores Brenda
+
+🌸 Zavala Velázquez Natalia
